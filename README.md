@@ -1,7 +1,5 @@
 
-# Muhammad Asad Ullah #### callmeAsadUllah
-
-### Hi there 👋
+# Muhammad Asad Ullah
 
 <!--
 **callmeAsadUllah/callmeAsadUllah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
