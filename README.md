@@ -1,7 +1,7 @@
 
-# **Muhammad Asad Ullah**
+# Muhammad Asad Ullah
 
-## My profile
+## My ***profile***
 
 #### [callmeasadullah](http://callmeasadullah.github.io)
 
